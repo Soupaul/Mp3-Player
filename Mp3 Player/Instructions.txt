@@ -1,0 +1,10 @@
+Extract all files to any directory and click on the .exe file. Play music and enjoy !!!
+
+
+Bin icon corresponds to deleting selected music file from queue.
+Plus icon corresponds to adding music file to queue via the search music icon.
+Lens icon corresponds to searching music file from PC.
+Play button for playing  music.
+Pause button for pausing music.
+Stop button for stopping music.
+Double arrowed icon for putting currently playing music file on repeat.
